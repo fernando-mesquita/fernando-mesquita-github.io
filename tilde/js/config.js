@@ -43,7 +43,17 @@ const CONFIG = {
       color: 'linear-gradient(135deg, #4599dd, #083dff)',
       icon: 'drive',
       quickLaunch: false,
-    },             
+    },    
+    {
+      category: 'Arquivos',
+      name: 'Koofr',
+      key: 'on',
+      url: 'https://koofr.eu/',
+      search: '',
+      color: 'linear-gradient(135deg, #4599dd, #083dff)',
+      icon: 'koofr',
+      quickLaunch: false,
+    },    
     {
       category: 'Arquivos',
       name: 'GitHub',
